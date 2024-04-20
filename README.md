@@ -1,1 +1,1 @@
-Small school project
+# Small school project
