@@ -1,1 +1,1 @@
-# Small school project
+# first school project
